@@ -1,0 +1,12 @@
+.heading {
+  color: red;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
